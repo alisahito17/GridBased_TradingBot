@@ -1,5 +1,5 @@
 streamlit
 numpy
 eth-account
-hyperliquid-python
-hyperliquid-monitor
+git+https://github.com/hyperliquid-markets/hyperliquid-python-sdk.git
+git+https://github.com/hyperliquid-markets/hyperliquid-monitor.git
