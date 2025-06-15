@@ -1,0 +1,5 @@
+streamlit
+numpy
+eth-account
+hyperliquid-python
+hyperliquid-monitor
