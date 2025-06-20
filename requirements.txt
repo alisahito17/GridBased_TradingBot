@@ -1,3 +1,5 @@
 streamlit
 numpy
 eth-account
+hyperliquid-python-sdk
+hyperliquid-monitor
